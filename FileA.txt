@@ -1,1 +1,2 @@
 This is FileA
+This change is part of FeatureA
